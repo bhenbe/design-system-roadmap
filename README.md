@@ -3,15 +3,20 @@ This guide introduce a way to create your own design system. It's more a checkli
 
 ## Roadmap overview
 
-1. introduction
+* introduction
+   * approach to the design system
    * conventions of the design system 
    * who is this document for ?
    * FAQ
-2. brand
+   * news and updates
+   * contributors and teams
+* branding conventions
    * values
+   * principles and approach
+   * accessibility
    * voice and tone
-   * products
-3. design - atoms
+   * products and variations
+* pattern library - settings
    * colors
    * typography
    * grids
@@ -19,7 +24,7 @@ This guide introduce a way to create your own design system. It's more a checkli
    * illustrations
    * pictures
    * animations
-4. design - molecules
+* pattern library - atoms
    * headings
    * paragraphs
    * links
@@ -28,10 +33,10 @@ This guide introduce a way to create your own design system. It's more a checkli
    * lists
    * tables
    * quotes
-5. design - components
+* pattern library - components
    * brand
    * navs
    * searchbars
-6. accessibility
-   * overview
-   * patterns
+   * and more reusable components regarding your needs
+* pattern library - templates 
+* pattern library - pages with real content
