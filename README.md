@@ -4,9 +4,9 @@ This guide introduce a way to create your own design system. It's more a checkli
 ## Roadmap overview
 
 1. introduction
-  a. conventions of the design system 
-  b. who is this document for ?
-  c. FAQ
+  * conventions of the design system 
+  * who is this document for ?
+  * FAQ
 2. brand
   a. values
   b. voice and tone
