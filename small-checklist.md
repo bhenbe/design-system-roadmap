@@ -42,6 +42,7 @@ A small checklist for fast and/or small project. This checklist is compatible wi
 - [ ] illustrations
 - [ ] pictures
 - [ ] animations
+- [ ] global accessibility
 
 ### Atoms
 
@@ -53,4 +54,25 @@ A small checklist for fast and/or small project. This checklist is compatible wi
 - [ ] lists
 - [ ] tables
 - [ ] quotes
-- [ ] global accessibility
+- [ ] global accessibility review
+
+### Components
+
+- [ ] you have to define the components needed here
+    - [ ] test your component
+    - [ ] validate your component
+    - [ ] enhance the accessibility of your component
+
+### Templates
+
+- [ ] you have to define the templates needed here
+    - [ ] test your template
+    - [ ] validate your template
+    - [ ] enhance the accessibility of your template
+
+### Pages
+
+- [ ] recover real content
+- [ ] you have to define the pages regarding templates and contents
+    - [ ] test your page
+    - [ ] validate your page
