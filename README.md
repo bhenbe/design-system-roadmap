@@ -4,35 +4,34 @@ This guide introduce a way to create your own design system. It's more a checkli
 ## Roadmap overview
 
 1. introduction
-  * conventions of the design system 
-  * who is this document for ?
-  * FAQ
+   * conventions of the design system 
+   * who is this document for ?
+   * FAQ
 2. brand
-  a. values
-  b. voice and tone
-  c. products
+   * values
+   * voice and tone
+   * products
 3. design - atoms
-  a. colors
-  b. typography
-  c. grids
-  d. icons
-  e. illustrations
-  f. pictures
-  g. animations
+   * colors
+   * typography
+   * grids
+   * icons
+   * illustrations
+   * pictures
+   * animations
 4. design - molecules
-  a. headings
-  b. paragraphs
-  c. links
-  d. buttons
-  e. pictures & images
-  f. lists
-  g. tables
-  h. quotes
+   * headings
+   * paragraphs
+   * links
+   * buttons
+   * pictures & images
+   * lists
+   * tables
+   * quotes
 5. design - components
-  a. brand
-  b. navs
-  c. searchbars
-  d. 
+   * brand
+   * navs
+   * searchbars
 6. accessibility
-  a. overview
-  b. patterns
+   * overview
+   * patterns
