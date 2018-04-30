@@ -11,6 +11,8 @@ This guide introduce a way to create your own design system. It's more a checkli
    * news and updates
    * contributors and teams
 * branding conventions
+   * mood board
+   * interfaces inventory
    * values
    * principles and approach
    * accessibility
