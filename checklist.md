@@ -1,6 +1,4 @@
-# Design System Roadmap - Small Checklist
-
-A small checklist for fast and/or small project. This checklist is compatible with the full checklist to go further next time.
+# Design System Roadmap - Checklist
 
 ## Before you start
 
@@ -10,6 +8,7 @@ A small checklist for fast and/or small project. This checklist is compatible wi
 - [ ] define the stakeholders
 - [ ] evaluate your roadmap / calendar
 - [ ] choose your tools
+    - [ ] reasearch tools and technics
     - [ ] design tools
     - [ ] prototyping and user-testing tools
     - [ ] documentation tools
@@ -30,19 +29,26 @@ A small checklist for fast and/or small project. This checklist is compatible wi
 - [ ] create a interface inventory
 - [ ] evaluate your interface inventory
 
+## Define the contents
+
+- [ ] make a content inventory
+- [ ] review the current contents
+- [ ] enhance / update contents 
+- [ ] microcopy
+
 ## Create your library
 
 ### Settings
 
 - [ ] colors
 - [ ] typography
-- [ ] colors
+- [ ] spacing
 - [ ] grids
 - [ ] icons
 - [ ] illustrations
 - [ ] pictures
 - [ ] animations
-- [ ] global accessibility
+- [ ] accessibility
 
 ### Atoms
 
@@ -54,7 +60,7 @@ A small checklist for fast and/or small project. This checklist is compatible wi
 - [ ] lists
 - [ ] tables
 - [ ] quotes
-- [ ] global accessibility review
+- [ ] accessibility review
 
 ### Components
 
