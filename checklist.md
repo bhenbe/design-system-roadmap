@@ -8,7 +8,7 @@
 - [ ] define the stakeholders
 - [ ] evaluate your roadmap / calendar
 - [ ] choose your tools
-    - [ ] reasearch tools and technics
+    - [ ] research tools and technics (interview, journey map, ...)
     - [ ] design tools
     - [ ] prototyping and user-testing tools
     - [ ] documentation tools
