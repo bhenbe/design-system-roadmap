@@ -1,32 +1,38 @@
-# Design System Roadmap
-This guide introduce a way to create your own design system. It's more a checklist of the differents chapters of your work with a lot of advices and ressources to go further.
+# Design System Roadmap and Resources
+This guide introduce a way to create your own design system. It's more a checklist of the differents chapters of your work with a lot of advices and resources to go further.
 
 ## Roadmap overview
 
-* introduction
-   * approach to the design system
-   * conventions of the design system 
-   * who is this document for ?
+* preliminary analysis
+   * mood board
+   * interface inventory
+   * content inventory
+   * brand values
+   * user research 
+   * defining needs and scope
+   * defining shared language
+   * tools
+* design system introduction
+   * about
+   * rules and conventions
+   * who is this documentation for ?
+   * how to use this design system ?
+   * limitations
    * FAQ
    * news and updates
    * contributors and teams
 * branding conventions
-   * mood board
-   * interfaces inventory
-   * values
    * principles and approach
    * accessibility
    * voice and tone
    * products and variations
-* pattern library - settings
-   * colors
+* perceptual patterns
+   * color
    * typography
-   * grids
-   * icons
-   * illustrations
-   * pictures
-   * animations
-* pattern library - atoms
+   * grid
+   * spacing
+   * animation
+* functional patterns
    * headings
    * paragraphs
    * links
@@ -35,10 +41,11 @@ This guide introduce a way to create your own design system. It's more a checkli
    * lists
    * tables
    * quotes
-* pattern library - components
+   * etc.
+* components
    * brand
    * navs
    * searchbars
-   * and more reusable components regarding your needs
-* pattern library - templates 
-* pattern library - pages with real content
+   * etc.
+* templates 
+* pages with real content

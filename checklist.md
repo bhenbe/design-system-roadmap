@@ -38,6 +38,20 @@
 
 ## Create your library
 
+### Informations Pages
+
+- [ ] rules and conventions
+- [ ] needs and scope
+- [ ] limitations
+- [ ] FAQ
+- [ ] news and updates
+- [ ] contributors and team
+
+### Brand
+
+- [ ] personnality
+- [ ] voice and tone
+
 ### Settings
 
 - [ ] colors
@@ -64,21 +78,26 @@
 
 ### Components
 
-- [ ] you have to define the components needed here
-    - [ ] test your component
-    - [ ] validate your component
-    - [ ] enhance the accessibility of your component
+- [ ] component
+    - [ ] context and purpose
+    - [ ] user test 
+    - [ ] updates and recommandations
+    - [ ] accessibility
 
 ### Templates
 
-- [ ] you have to define the templates needed here
-    - [ ] test your template
-    - [ ] validate your template
-    - [ ] enhance the accessibility of your template
+- [ ] template
+    - [ ] layout
+    - [ ] components
+    - [ ] context and purpose
+    - [ ] user test
+    - [ ] updates and recommandations
+    - [ ] accessibility
 
 ### Pages
 
-- [ ] recover real content
-- [ ] you have to define the pages regarding templates and contents
-    - [ ] test your page
-    - [ ] validate your page
+- [ ] content
+- [ ] template
+    - [ ] user test
+    - [ ] updates and recommandations
+    - [ ] accessibility
